@@ -4,4 +4,4 @@
 - Tipos de variables
 - Sentencias condicionales
 
-![](test-repo/assets/768px-Python-logo-notext.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png)
